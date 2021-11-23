@@ -19,18 +19,18 @@ https://datahack.analyticsvidhya.com/contest/job-a-thon-november-2021/
 
 **Data Dictionary:**
 **Train Data**
-MMMM-YY - Reporting Date (Monthly)
-Emp_ID - Unique id for employees
-Age - Age of the employee
-Gender - Gender of the employee
-City - City Code of the employee
-Education_Level - Education level : Bachelor, Master or College
-Salary - Salary of the employee
-Dateofjoining - Joining date for the employee
-LastWorkingDate - Last date of working for the employee
-Joining Designation - Designation of the employee at the time of joining
-Designation - Designation of the employee at the time of reporting
-TotalBusinessValue - The total business value acquired by the employee in a month (negative business indicates cancellation/refund of sold insurance policies)
+MMMM-YY - Reporting Date (Monthly) |
+Emp_ID - Unique id for employees |
+Age - Age of the employee |
+Gender - Gender of the employee |
+City - City Code of the employee |
+Education_Level - Education level : Bachelor, Master or College |
+Salary - Salary of the employee |
+Dateofjoining - Joining date for the employee |
+LastWorkingDate - Last date of working for the employee |
+Joining Designation - Designation of the employee at the time of joining |
+Designation - Designation of the employee at the time of reporting |
+TotalBusinessValue - The total business value acquired by the employee in a month (negative business indicates cancellation/refund of sold insurance policies) |
 Quarterly Rating - Quarterly rating of the employee: 1,2,3,4 (higher is better)
 
 **Test Data**
