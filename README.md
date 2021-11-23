@@ -1,6 +1,7 @@
 # Analytics Vidhya -JOB-A-THON-NOV-2021
 
 **RANK:** 86
+
 **SCORE:** 0.6922596859
 
 **PROBLEM STATEMENT:**
@@ -59,6 +60,7 @@ and joining date in days. For the employees who left the organization before 220
 days(took a buffer of 40 days), were labelled as 1 and the rest were labelled 0.
 Finally encoding was done for categorical variables using the get_dummies function in
 pandas.
+
 I applied the Random Forest Classifier algorithm as Random Forest can be used to
 handle large datasets as well and provides good accuracy on cross validation.
 I divided the train dataset into train and test in 70:30 ratio and applied the model. The
